@@ -1,4 +1,4 @@
-package com.keaweaquarian.fullStackProject1.domain;
+package com.keaweaquarian.fullStackProject1.entities;
 
 import jakarta.annotation.Generated;
 import jakarta.persistence.Entity;
