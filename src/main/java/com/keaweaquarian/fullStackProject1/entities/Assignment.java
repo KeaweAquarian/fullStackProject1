@@ -1,5 +1,7 @@
 package com.keaweaquarian.fullStackProject1.entities;
 
+import com.keaweaquarian.fullStackProject1.entities.user.User;
+
 import jakarta.annotation.Generated;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

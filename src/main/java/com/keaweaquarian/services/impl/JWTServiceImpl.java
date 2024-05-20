@@ -8,7 +8,7 @@ import java.util.Base64.Decoder;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Service;
 
-import com.keaweaquarian.fullStackProject1.entities.User;
+import com.keaweaquarian.fullStackProject1.entities.user.User;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
